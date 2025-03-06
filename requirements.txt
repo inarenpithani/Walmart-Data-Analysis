@@ -1,0 +1,6 @@
+pandas
+pymysql
+sqlalchemy
+mysql-connector-python
+ipython-sql 
+cryptography
